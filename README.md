@@ -4,7 +4,7 @@
 📍 Based in **Egypt** | Passionate about **AI & Entrepreneurship**  
 
 ### 🏆 Achievements
-- **Country Coordinator** Hult Prize Egypt 
+- **Country Coordinator** Hult Prize Egypt  
 - **NASA Space Apps** Local Lead (2023 & 2024)  
 - **Founder** of AI Entrepreneurship Club (AIEC)  
 
@@ -15,6 +15,7 @@
 
 ### 📬 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfateh4/)  
+📧 **Email**: [elfateh@ieee.org](mailto:elfateh@ieee.org)  
 
 ### 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfateh4&show_icons=true&theme=radical)  
